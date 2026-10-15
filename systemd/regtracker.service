@@ -1,0 +1,26 @@
+[Unit]
+Description=AI regulatory tracker (build feed.json, upload to R2)
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+# Throwaway user per run: no access to any home directory.
+DynamicUser=yes
+StateDirectory=regtracker
+EnvironmentFile=/etc/regtracker.env
+ExecStart=/opt/regtracker/publish.sh
+
+NoNewPrivileges=yes
+ProtectSystem=strict
+ProtectHome=yes
+PrivateTmp=yes
+PrivateDevices=yes
+ProtectKernelTunables=yes
+ProtectKernelModules=yes
+ProtectControlGroups=yes
+RestrictSUIDSGID=yes
+LockPersonality=yes
+RestrictAddressFamilies=AF_INET AF_INET6
+CapabilityBoundingSet=
+TimeoutStartSec=5min

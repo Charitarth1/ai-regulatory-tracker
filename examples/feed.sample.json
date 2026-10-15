@@ -1,0 +1,108 @@
+{
+ "version": 1,
+ "generated_at": "2026-10-13T17:03:13Z",
+ "sources": [
+  {
+   "name": "European Commission (Digital)",
+   "jurisdiction": "EU"
+  },
+  {
+   "name": "European Data Protection Board",
+   "jurisdiction": "EU"
+  },
+  {
+   "name": "UK AI Security Institute",
+   "jurisdiction": "UK"
+  },
+  {
+   "name": "UK Government",
+   "jurisdiction": "UK"
+  },
+  {
+   "name": "NIST",
+   "jurisdiction": "US"
+  },
+  {
+   "name": "CISA",
+   "jurisdiction": "US"
+  },
+  {
+   "name": "Innovation, Science and Economic Development Canada",
+   "jurisdiction": "Canada"
+  },
+  {
+   "name": "OpenAI",
+   "jurisdiction": "Labs"
+  },
+  {
+   "name": "Google DeepMind",
+   "jurisdiction": "Labs"
+  }
+ ],
+ "items": [
+  {
+   "id": "c7181b0505e227a9",
+   "title": "Canada and the United Kingdom Renew Their Partnership on Artificial Intelligence Security",
+   "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/canada-and-the-united-kingdom-renew-their-partnership-on-artificial-intelligence-security.html",
+   "source": "Innovation, Science and Economic Development Canada",
+   "jurisdiction": "Canada",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "3bc0c5d6f4b3a055",
+   "title": "Building a Safer, More Secure Britain in the age of AI",
+   "url": "https://www.gov.uk/government/speeches/building-a-safer-more-secure-britain-in-the-age-of-ai",
+   "source": "UK Government",
+   "jurisdiction": "UK",
+   "date": "2026-10-12"
+  },
+  {
+   "id": "c6a72e78a1ceac8c",
+   "title": "Britain steps up national defences against growing AI risks",
+   "url": "https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks",
+   "source": "UK Government",
+   "jurisdiction": "UK",
+   "date": "2026-10-12"
+  },
+  {
+   "id": "c4e0f25e9abe4296",
+   "title": "Commission holds special meeting of Scientific panel on frontier AI safety and risks",
+   "url": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
+   "source": "European Commission (Digital)",
+   "jurisdiction": "EU",
+   "date": "2026-10-09"
+  },
+  {
+   "id": "65f630815d658098",
+   "title": "100 new UK jobs created as Kuwait buys British-made AI-enabled air defence systems",
+   "url": "https://www.gov.uk/government/news/100-new-uk-jobs-created-as-kuwait-buys-british-made-ai-enabled-air-defence-systems",
+   "source": "UK Government",
+   "jurisdiction": "UK",
+   "date": "2026-10-09"
+  },
+  {
+   "id": "c9c99e337b0efcb0",
+   "title": "European AI Innovation Month",
+   "url": "https://digital-strategy.ec.europa.eu/en/events/european-ai-innovation-month",
+   "source": "European Commission (Digital)",
+   "jurisdiction": "EU",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "5828ea99d44e6096",
+   "title": "Dutch DPA fines Uber EUR 824 990 000 for unlawful automated decision-making and insufficient information on profiling",
+   "url": "https://www.edpb.europa.eu/news/dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-making-and-insufficient_en",
+   "source": "European Data Protection Board",
+   "jurisdiction": "EU",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "6fe1a66ba23c593d",
+   "title": "Government backs recommendations of NHS doctors-led AI Commission",
+   "url": "https://www.gov.uk/government/news/government-backs-recommendations-of-nhs-doctors-led-ai-commission",
+   "source": "UK Government",
+   "jurisdiction": "UK",
+   "date": "2026-10-06"
+  }
+ ]
+}
